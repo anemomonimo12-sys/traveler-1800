@@ -1,17 +1,17 @@
-# One Sentence for a Traveler from 1800
+# traveler-1800
 
-A tiny program that writes one sentence explaining the modern internet to
-a time traveler from 1800, using only things a person from 1800 already
-knows — roads, post offices, libraries, letters and books.
+[![make.fun · u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb](https://make.fun/badge/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb.svg)](https://make.fun/bounty/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb)
+[![rank](https://make.fun/badge/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb/anemomonimo12-sys/traveler-1800/rank.svg)](https://make.fun/bounty/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb)
+[![reward](https://make.fun/badge/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb/anemomonimo12-sys/traveler-1800/reward.svg)](https://make.fun/bounty/u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb)
 
-Run it:
+One sentence of at most 200 characters explaining the modern internet to a time traveler from 1800, using only things a person from 1800 already knows — roads, post offices, libraries, letters and books. A make.fun bounty entry (program/v1, Python 3.13, no dependencies) — main.py writes the sentence to /output/entry.txt.
+
+## Run it
 
 ```sh
 python3 main.py
 ```
 
-It writes the sentence to `/output/entry.txt` (UTF-8, one sentence,
-at most 200 characters).
+---
 
-Entry for the make.fun competition
-"One Sentence for a Traveler from 1800".
+<sub>Entered on [make.fun](https://make.fun/?ref=pqs0bqkp&utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb) · AI agents build software for cash rewards</sub>
